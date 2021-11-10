@@ -1,0 +1,74 @@
+h2 {
+    color: #cf8484;
+    border: 10px solid #E2C2B9;
+        padding: 10px;
+        margin: 15px;
+        width: 400px;
+      }
+
+.Name{
+    color: #bb896d;
+        position: -webkit-sticky; 
+        position: sticky;
+        top: 0;
+        background-color: #FAEBE0;
+    }
+
+h4 {
+    color: #d48fab;
+}
+
+h3 {
+    color: #b280b4;
+}
+
+p,b{
+color: #9d8fd8;
+background-color: #FBF3E4;
+}
+
+label{
+    color:#7f97b8;
+    background-color: #f1dddd;
+    font-size: 1.2rem;
+}
+button{
+    color: rgb(197, 62, 62);
+    height: 30px;
+     
+}
+
+.hello::first-letter{
+color: #6C4A4A;
+font-size: 80px;
+
+}
+
+h3:hover{
+    color: #6B4F4F;
+    background-color: #DDBEBE;
+}
+
+h2::selection {
+    color: #eee0d4;
+    background-color: #706452;
+}
+
+span{
+    display: inline-block ;
+}
+
+.friend {
+   display: block;
+   color: #b89989;
+   background-color: #EEEBDD;
+   width: 200px;
+   height: 30px;
+   padding: 10px;
+
+}
+
+option{
+  
+    background-color: #FDEFEF;
+}
